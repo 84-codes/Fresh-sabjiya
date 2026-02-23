@@ -1,4 +1,5 @@
 'use strict'
+
 const http = require('http');
 const fs = require('fs');
 const url = require('url')
@@ -11,10 +12,6 @@ const dataObj = JSON.parse(data);
 const templateOverview = fs.readFileSync(`${__dirname}/templates/template-overview.html`, 'utf-8');
 const templateCard = fs.readFileSync(`${__dirname}/templates/template-card.html`, 'utf-8');
 const templateProduct = fs.readFileSync(`${__dirname}/templates/template-product.html`, 'utf-8');
-
-
-// create html page with parameters replaced
-
 
 const server = http.createServer((req, res) => {
     console.log('requesting!');
