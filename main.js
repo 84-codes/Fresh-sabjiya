@@ -1,9 +1,11 @@
 'use strict'
 
+// core modules
 const http = require('http');
 const fs = require('fs');
 const url = require('url')
 
+// custom modules
 const replaceTemplate = require('./custom_modules/template_replace');
 
 const data = fs.readFileSync(`${__dirname}/data/data.json`, 'utf-8');
@@ -12,6 +14,7 @@ const dataObj = JSON.parse(data);
 const templateOverview = fs.readFileSync(`${__dirname}/templates/template-overview.html`, 'utf-8');
 const templateCard = fs.readFileSync(`${__dirname}/templates/template-card.html`, 'utf-8');
 const templateProduct = fs.readFileSync(`${__dirname}/templates/template-product.html`, 'utf-8');
+
 
 const server = http.createServer((req, res) => {
     console.log('requesting!');
