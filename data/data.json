@@ -1,0 +1,134 @@
+[
+  {
+    "id": 0,
+    "productName": "Aloo",
+    "image": "🥔",
+    "from": "India",
+    "nutrients": "Carbohydrates, Potassium",
+    "quantity": "1kg",
+    "price": "30.00",
+    "organic": false,
+    "description": "Aloo har kitchen ki buniyadi zaroorat hai. Isse aap har tarah ki sabji bana sakte hain aur ye energy ka sabse sasta aur accha source hai."
+  },
+  {
+    "id": 1,
+    "productName": "Tamatar",
+    "image": "🍅",
+    "from": "India",
+    "nutrients": "Vitamin C, Lycopene",
+    "quantity": "1kg",
+    "price": "50.00",
+    "organic": true,
+    "description": "Desi tamatar ka swad thoda khatta hota hai jo gravy aur dal mein jaan daal deta hai. Salad ke liye bhi ye perfect hai."
+  },
+  {
+    "id": 2,
+    "productName": "Pyaaz",
+    "image": "🧅",
+    "from": "India",
+    "nutrients": "Antioxidants, Vitamin C",
+    "quantity": "1kg",
+    "price": "40.00",
+    "organic": false,
+    "description": "Pyaaz ke bina Indian tadka adhura hai. Ye blood sugar control karne mein aur infection se bachne mein madad karta hai."
+  },
+  {
+    "id": 3,
+    "productName": "Seb",
+    "image": "🍎",
+    "from": "India",
+    "nutrients": "Fiber, Vitamin C",
+    "quantity": "1kg",
+    "price": "180.00",
+    "organic": true,
+    "description": "Kashmiri seb apne meethe aur crispy swad ke liye mashhoor hain. Roj ek seb khane se doctor ki zaroorat nahi padti."
+  },
+  {
+    "id": 4,
+    "productName": "Phool Gobhi",
+    "image": "🥦",
+    "from": "India",
+    "nutrients": "Vitamin C, Fiber",
+    "quantity": "1 unit",
+    "price": "40.00",
+    "organic": true,
+    "description": "Sardiyon mein garma-garam phool gobhi ke parathe ya gobhi-matar ki sabji sabki pehli pasand hoti hai."
+  },
+  {
+    "id": 5,
+    "productName": "Bhindi",
+    "image": "🥗",
+    "from": "India",
+    "nutrients": "Vitamin A, Fiber",
+    "quantity": "500g",
+    "price": "45.00",
+    "organic": true,
+    "description": "Chhote-chhote tukdon mein kati hui kurkuri bhindi bacchon aur badon dono ko khub pasand aati hai."
+  },
+  {
+    "id": 6,
+    "productName": "Adrak",
+    "image": "🫚",
+    "from": "India",
+    "nutrients": "Gingerol, Magnesium",
+    "quantity": "250g",
+    "price": "60.00",
+    "organic": true,
+    "description": "Chai ho ya sabji, adrak ka swad aur khushbu sab kuch behtar bana deti hai. Ye immunity ke liye bhi best hai."
+  },
+  {
+    "id": 7,
+    "productName": "Anaar",
+    "image": "🔴",
+    "from": "India",
+    "nutrients": "Iron, Antioxidants",
+    "quantity": "1kg",
+    "price": "190.00",
+    "organic": false,
+    "description": "Anaar ke laal daane khoon badhane mein sabse zyada asardaar hote hain. Iska juice sehat ke liye bahut faydemand hai."
+  },
+  {
+    "id": 8,
+    "productName": "Matar",
+    "image": "🫛",
+    "from": "India",
+    "nutrients": "Protein, Fiber",
+    "quantity": "500g",
+    "price": "50.00",
+    "organic": true,
+    "description": "Taaza matar ke daane meethe hote hain aur paneer ke saath milkar ye ek shahi dish banate hain."
+  },
+  {
+    "id": 9,
+    "productName": "Santra",
+    "image": "🍊",
+    "from": "India",
+    "nutrients": "Vitamin C",
+    "quantity": "1kg",
+    "price": "80.00",
+    "organic": false,
+    "description": "Nagpur ke santre apne ras aur Vitamin C ke liye poore desh mein pasand kiye jaate hain."
+  },
+  {
+    "id": 10,
+    "productName": "Hari Mirch",
+    "image": "🌶️",
+    "from": "India",
+    "nutrients": "Vitamin C, Capsaicin",
+    "quantity": "100g",
+    "price": "20.00",
+    "organic": true,
+    "description": "Teekhi hari mirch khane ka swad badha deti hai. Ye metabolism boost karne mein bhi help karti hai."
+  },
+  {
+    "id": 11,
+    "productName": "Hara Dhaniya",
+    "image": "🌿",
+    "from": "India",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "1 bunch",
+    "price": "15.00",
+    "organic": true,
+    "description": "Sabji banne ke baad upar se hara dhaniya dalne se uski khushbu aur look dono badhiya ho jate hain."
+  }
+]
